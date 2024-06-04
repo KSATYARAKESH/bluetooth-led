@@ -1,3 +1,5 @@
+//Downlood Arduino bluetooth controller 
+// connect to arduino uno 
 #define ledPin 13
 int state = 0;
 
